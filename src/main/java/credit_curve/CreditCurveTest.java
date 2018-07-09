@@ -1,4 +1,4 @@
-package test.credit_curve;
+package credit_curve;
 
 import static com.opengamma.strata.basics.currency.Currency.USD;
 import static com.opengamma.strata.basics.date.DayCounts.ACT_360;

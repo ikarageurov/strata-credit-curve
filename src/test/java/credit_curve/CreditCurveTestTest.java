@@ -1,4 +1,4 @@
-package test.credit_curve;
+package credit_curve;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
